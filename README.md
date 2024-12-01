@@ -8,7 +8,7 @@
 
 PassGenerator is a password generation program that allows you to combine keywords, 
 years and random characters. It generates passwords matching a given length using a randomized 
-selection of elements and their combinations. This program can also generate ceed-phrases
+selection of elements and their combinations. This program can also generate seed-phrases
 
 ---
 
