@@ -18,6 +18,8 @@ selection of elements and their combinations. This program can also generate see
    git clone https://github.com/DRWOOTANYU/Passwords.git
    
    cd Passwords
+
+   cmake .
    
    make
    

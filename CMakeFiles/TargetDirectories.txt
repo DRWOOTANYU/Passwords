@@ -1,3 +1,0 @@
-/home/user/etc/projects/Passwords/CMakeFiles/PasswordsGenerator.dir
-/home/user/etc/projects/Passwords/CMakeFiles/edit_cache.dir
-/home/user/etc/projects/Passwords/CMakeFiles/rebuild_cache.dir
